@@ -1,1 +1,21 @@
-readme
+spider for website http://www.npc.gov.cn/ 
+
+起因:
+project http://v2ex.com/t/38386
+
+数据:
+info.txt
+格式:
+id(for website db?)
+代表姓名
+代表团所在地
+性别
+民族
+籍贯
+出生年月
+党派
+毕业院校
+所学专业
+学历
+学位
+现任职务
