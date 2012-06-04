@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+.idea/
+/tqq/test/*.html
+/tsina/test/*.html
+cookie/
+fetch.log
