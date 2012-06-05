@@ -5,3 +5,7 @@
 /tsina/test/*.html
 cookie/
 fetch.log
+photo/
+photo2/
+photo.tar.gz
+.DS_Store
