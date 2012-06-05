@@ -1,4 +1,4 @@
-spider for website http://www.npc.gov.cn/ 
+spider for website  http://www.npc.gov.cn/delegate/delegateArea.action  
 
 起因:
 project http://v2ex.com/t/38386
@@ -19,3 +19,8 @@ id(for website db?)
 学历
 学位
 现任职务
+
+updted 2012-06-05
+增加了照片spider
+数据（包括info 和照片 243M）打包下载地址(阿里云存储)：
+http://storage.aliyun.com/jayproxy/photo.tar.gz
